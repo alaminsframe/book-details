@@ -1,4 +1,4 @@
-import Header from './components/Header'
+import Header from './components/Hero'
 import './index.css'
 
 function App() {
